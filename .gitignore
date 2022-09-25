@@ -1,0 +1,6 @@
+*.layout
+*.obj
+*.exe
+*.depend
+
+repoCopy/
