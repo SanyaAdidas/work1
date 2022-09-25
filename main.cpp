@@ -1,3 +1,4 @@
+// It's a fake program
 #include <iostream>
 
 using namespace std;
